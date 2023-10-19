@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : reach me through 
 - mobile : +91-7869588763
-- email : arehman921232gmail.com
+- email : arehman92123@gmail.com
 
 <!---
 Abdul-ithub/Abdul-ithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
