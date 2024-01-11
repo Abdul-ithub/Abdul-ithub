@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdul Rehman Khan
-- 👀 I’m interested in full stack web development
+- 👀 I’m a full stack MERN developer
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : reach me through 
